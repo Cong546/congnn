@@ -8,7 +8,7 @@ function login(e) {
   for (let i = 0; i < users.length; i++) {
     if (username === users[i].username && password === users[i].password) {
       alert("Login successful");
-      window.location.href = "#";
+      window.location.href = "tr1.html";
       return;
     }
   }
