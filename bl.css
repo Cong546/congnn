@@ -1,0 +1,30 @@
+.non{
+    width: 400px;
+    border-radius: 30px;
+}
+
+.f{
+    display: inline-block;
+    width: 40%;
+    
+}
+.lime{
+    margin-left: 45px;
+    
+}   
+.btn{
+    width: 450px;
+    border-radius: 40px !important;
+    
+}
+
+.time{
+    margin-left: 605px;
+    
+    
+}
+   
+.logo{
+    width: 100px;
+    height: 100px;  
+}
