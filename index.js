@@ -6,8 +6,8 @@ function signUp(e) {
     let email = document.getElementById('email').value;
     let password = document.getElementById('password').value;
     let confirmPassword = document.getElementById('confirmPassword').value;
-    if(username.length < 3){
-        alert('Username must be at least 3 characters');
+    if(username.length < 6){
+        alert('Username must be at least 6 characters');
         return;
     }
     if (password !== confirmPassword) {
